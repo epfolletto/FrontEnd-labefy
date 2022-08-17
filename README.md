@@ -21,7 +21,7 @@ Ao iniciar a aplicação o usuário é direcionado para a tela de Home, onde exi
 - Ao clicar no botão **Sobre**, o usuário é redirecionado para uma página que contém informações sobre o projeto; </br>
 - Ao clicar no botão **Ver Playlists** o usuário é direcionado para uma página que contém uma lista com todas as playlists cadastradas, onde existem algumas opções de iteração para o usuário: </br>
   - ao clicar em **Excluir**, o usuário deleta aquela playlist da lista. </br>
-  - ao clicar em **Ver**, o usuário é redirecionado para a página de detalhes playlist clicada, onde é possível o usuário: </br>
+  - ao clicar em **Ver**, o usuário é redirecionado para a página de detalhes da playlist clicada, onde é possível: </br>
     - clicar em **Excluir** para excluir determinada música da playlist. </br>
     - clicar no **play/pause** para reproduzir e pausar, respectivamente. Também é possível aumentar e diminuir o volume. </br>
     - clicar em **voltar**, para voltar para a página da lista de playlists. </br>
