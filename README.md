@@ -20,22 +20,12 @@ Desenvolvido por: Evandro Paulo Folletto
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-# Autor
-Evandro Paulo Folletto
-
-# Imagens
-<img src="./src/assets/img/Site_1.png"/>
-<img src="./src/assets/img/Site_2.png"/>
-<img src="./src/assets/img/Site_3.png"/>
-<img src="./src/assets/img/Site_4.png"/>
-<img src="./src/assets/img/Site_5.png"/>
-
 
 # `Projeto`
 Projeto Labefy
 
 # `Link`
-(Clique aqui!)[http://folletto-labefy.surge.sh/]
+[Clique aqui!](http://folletto-labefy.surge.sh/)
 
 # `Descrição`
 O Projeto LabeFoods foi desenvolvido como projeto final de Front End dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em requisições (via axios) para a API labeFoods, que contém informações relacionadas ao desenvolvimento de uma aplicação que simula um aplicativo semelhante ao conhecido app iFood. Este projeto foi baseado no layout layout FutureEats.
@@ -78,53 +68,27 @@ Rodar o projeto:
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 </div>
 
-# `Autores`
-
+# `Autor`
 Evandro Paulo Folletto
 </br>
 <a href="https://www.linkedin.com/in/evandrofolletto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/epfolletto"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
 </br>
 
-José Robinaldo Ramos da Silva
-</br>
-<a href="https://www.linkedin.com/in/jose-robinaldo-ramos-da-silva-junior-50182113a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/leonardojcsl"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</br>
-
-Leonardo José Silva Lopes de Souza
-</br>
-<a href="https://www.linkedin.com/in/leonardojcsl91/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/marleopr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</br>
-
-Márleo Piber da Rosa
-</br>
-<a href="https://www.linkedin.com/in/marleopiber/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/Joserobinaldo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</br>
-
-Olavo Marques do Nascimento
-</br>
-<a href="https://www.linkedin.com/in/olavo-marques-6421ab123/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/Olavo-marques"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-
 # `Imagens`
-### Página Login
-<img src="./future-eats-b/src/assets/img_readme/login.png"/>
+### Página Home
+<img src="./src/assets/img/Site_1.png"/>
 
-### Página SignUp (Cadastro)
-<img src="./future-eats-b/src/assets/img_readme/signup.png"/>
+### Página Sobre
+<img src="./src/assets/img/Site_6.png"/>
 
-### Página Feed
-<img src="./future-eats-b/src/assets/img_readme/feed.png"/>
+### Página playlists
+<img src="./src/assets/img/Site_2.png"/>
 
-### Página detalhes
-<img src="./future-eats-b/src/assets/img_readme/restaurant.png"/>
+### Página detalhes playlist
+<img src="./src/assets/img/Site_3.png"/>
 
-### Página Carrinho
-<img src="./future-eats-b/src/assets/img_readme/cart.png"/>
+### Página adicionar música
+<img src="./src/assets/img/Site_4.png"/>
 
-### Página Perfil
-<img src="./future-eats-b/src/assets/img_readme/profile.png"/>
-
-### Página Editar perfil
-<img src="./future-eats-b/src/assets/img_readme/profile_edit.png"/>
-
-### Página Editar Endereço
-<img src="./future-eats-b/src/assets/img_readme/profile_address.png"/>
+### Página criar playlist
+<img src="./src/assets/img/Site_5.png"/>
