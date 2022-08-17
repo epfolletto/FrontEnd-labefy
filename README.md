@@ -17,7 +17,7 @@ Os métodos utilizados para realizar este projeto foram: </br>
 A documentação da API pode ser encontrada [aqui](https://documenter.getpostman.com/view/7549981/SztBc8eT?version=latest).
 
 # `Modo de usar`
-Ao iniciar a aplicação o usuário é direcionado para a tela de Home, onde existem dois botões: </br>
+Ao iniciar a aplicação o usuário é direcionado para a tela de Home, onde existem dois botões: Sobre e Ver Playlists.</br>
 - Ao clicar no botão **Sobre**, o usuário é redirecionado para uma página que contém informações sobre o projeto; </br>
 - Ao clicar no botão **Ver Playlists** o usuário é direcionado para uma página que contém uma lista com todas as playlists cadastradas, onde existem algumas opções de iteração para o usuário: </br>
   - ao clicar em **Excluir**, o usuário deleta aquela playlist da lista. </br>
