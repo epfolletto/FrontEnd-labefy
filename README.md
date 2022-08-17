@@ -26,14 +26,8 @@ Ao iniciar a aplicação o usuário é direcionado para a tela de Home, onde exi
     - clicar no **play/pause** para reproduzir e pausar, respectivamente. Também é possível aumentar e diminuir o volume. </br>
     - clicar em **voltar**, para voltar para a página da lista de playlists. </br>
     - clicar em **Adicionar Música**, para ser redirecionado para a tela de cadastro de músicas. Para adicionar uma nova música o usuário deve preencher os campos: Nome da música, Artista, URL da música. Para efetuar o cadastro basta clicar em **Adicionar** e para voltar para a página anterior basta clicar em **Voltar**. </br>
-</br>
-Após efetuar login, o usuário é redirecionado para a página de feed, onde poderá escolher entre diferentes tipos de restaurantes, podendo filtrar por palavras chave (utilizando para o tal o campo de buscas) ou por tipos de comidas, na barra superior. Dentre as opções estão por exemplo comida Asiática, Hamburgueres, Italiana, Sorvetes entre outros.
-</br>
-Clicando sobre a imagem de um restaurante no feed, o usuário é redicionado para a página de detalhes detes, onde são listados todos os alimentos fornecidos pelo estabelecimento, podendo o usuário adicionar e remover produtos para o seu carrinho.
-</br>
-Na parte inferior existe um menu, onde o usuário pode acessar a página de carrinho e verificar todos os itens que adicionou ao mesmo, valor do frente e total da compra, além de selecionar um método de pagamento. Também é possível remover itens da lista. Ao clicar em confirmar, será exibida uma mensagem de pedido realizado com sucesso.
-</br>
-No menu inferior, o usuário pode clicar no ícone de perfil e então será redirecionado para a página de perfil do usuário, onde pode alterar seus dados cadastrais e de endereço, e ainda verificar o seu histórico de pedidos. No canto superior direito da página, é possível também fazer o logout da conta, sendo então redirecionado para a página de login.
+  - ao clicar em **Criar Playlist** o usuário é redirecionado para a página de criação de playlist, onde deve inserior o nome desta playlist. Pàra efetuar a criação da playlist o usuário deve clicar em **Criar Playlist**, e para voltar para a página de playlist deve clicar em **Voltar**. </br>
+  - ao clicar em **Voltar** o usuário é redirecionado para a página Home.
 
 # `Instalando e rodando o projeto`
 Fazer o clone do projeto:
