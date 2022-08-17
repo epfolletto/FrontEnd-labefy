@@ -5,7 +5,7 @@ Projeto Labefy
 [Clique aqui!](http://folletto-labefy.surge.sh/)
 
 # `Descrição`
-O Projeto Labefy foi desenvolvido como uma atividade dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em requisições para a API desenvolvida pela equipe da Labenu via axios. </br>
+O Projeto Labefy foi desenvolvido como uma atividade dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em requisições para a API desenvolvida pela equipe da Labenu, via axios. </br>
 Os métodos utilizados para realizar este projeto foram: </br>
 **- getAllPlaylists:** ver todas as playlists cadastradas. </br>
 **- getPlaylistsTracks:** ver as músicas cadastradas em uma determinada playlists. </br>
