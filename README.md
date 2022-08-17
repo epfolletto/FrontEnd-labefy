@@ -17,7 +17,11 @@ Os métodos utilizados para realizar este projeto foram: </br>
 A documentação da API pode ser encontrada [aqui](https://documenter.getpostman.com/view/7549981/SztBc8eT?version=latest)
 
 # `Modo de usar`
-Ao iniciar a aplicação o usuário é direcionado para a tela de Login. Nesta tela, o usuário pode efetuar seu login ou então se inscrever na plataforma, criando um usuário com nome, email, senha e dados de endereço.
+Ao iniciar a aplicação o usuário é direcionado para a tela de Home, onde existem dois botões: </br>
+- Ao clicar no botão **Sobre**, o usuário é redirecionado para uma página que contém informações sobre o projeto; </br>
+- Ao clicar no botão **Ver Playlists** o usuário é direcionado para uma página que contém uma lista com todas as playlists cadastradas, onde existem algumas opções de iteração para o usuário: </br>
+  - ao clicar em **Excluir**, o usuário deleta aquela playlist da lista. </br>
+-  : e Sobre. Ao clicar em Sobren. Nesta tela, o usuário pode efetuar seu login ou então se inscrever na plataforma, criando um usuário com nome, email, senha e dados de endereço.
 </br>
 Após efetuar login, o usuário é redirecionado para a página de feed, onde poderá escolher entre diferentes tipos de restaurantes, podendo filtrar por palavras chave (utilizando para o tal o campo de buscas) ou por tipos de comidas, na barra superior. Dentre as opções estão por exemplo comida Asiática, Hamburgueres, Italiana, Sorvetes entre outros.
 </br>
