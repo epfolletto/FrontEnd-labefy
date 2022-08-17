@@ -5,14 +5,14 @@ Projeto Labefy
 [Clique aqui!](http://folletto-labefy.surge.sh/)
 
 # `Descrição`
-O Projeto Labefy foi desenvolvido como uma atividade dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em requisições para a API desenvolvida pela equipe da Labenu via axios.
-Os métodos utilizados para realizar este projeto foram:
-getAllPlaylists: ver todas as playlists cadastradas;
-getPlaylistsTracks: ver as músicas cadastradas em uma determinada playlists;
-createPlaylist: criar uma nova playlist;
-addTrackToPlaylist: adicionar uma nova música em uma determinada playlist;
-deletePlaylist: deletar uma determinada playlist;
-removeTrackFromPlaylist: deletar música de uma playlist.
+O Projeto Labefy foi desenvolvido como uma atividade dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em requisições para a API desenvolvida pela equipe da Labenu via axios. </br>
+Os métodos utilizados para realizar este projeto foram: </br>
+**getAllPlaylists:** ver todas as playlists cadastradas. </br>
+**getPlaylistsTracks:** ver as músicas cadastradas em uma determinada playlists. </br>
+**createPlaylist:** criar uma nova playlist. </br>
+**addTrackToPlaylist:** adicionar uma nova música em uma determinada playlist. </br>
+**deletePlaylist:** deletar uma determinada playlist. </br>
+**removeTrackFromPlaylist:** deletar música de uma playlist. </br>
 </br>
 A documentação da API pode ser encontrada [aqui](https://documenter.getpostman.com/view/7549981/SztBc8eT?version=latest)
 
