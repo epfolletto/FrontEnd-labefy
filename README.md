@@ -21,7 +21,8 @@ Ao iniciar a aplicação o usuário é direcionado para a tela de Home, onde exi
 - Ao clicar no botão **Sobre**, o usuário é redirecionado para uma página que contém informações sobre o projeto; </br>
 - Ao clicar no botão **Ver Playlists** o usuário é direcionado para uma página que contém uma lista com todas as playlists cadastradas, onde existem algumas opções de iteração para o usuário: </br>
   - ao clicar em **Excluir**, o usuário deleta aquela playlist da lista. </br>
--  : e Sobre. Ao clicar em Sobren. Nesta tela, o usuário pode efetuar seu login ou então se inscrever na plataforma, criando um usuário com nome, email, senha e dados de endereço.
+  - ao clicar em **Ver**, o usuário é redirecionado para a página de detalhes playlist clicada, onde é possível o usuário: </br>
+    - clicar em **Excluir** Nesta tela, o usuário pode efetuar seu login ou então se inscrever na plataforma, criando um usuário com nome, email, senha e dados de endereço.
 </br>
 Após efetuar login, o usuário é redirecionado para a página de feed, onde poderá escolher entre diferentes tipos de restaurantes, podendo filtrar por palavras chave (utilizando para o tal o campo de buscas) ou por tipos de comidas, na barra superior. Dentre as opções estão por exemplo comida Asiática, Hamburgueres, Italiana, Sorvetes entre outros.
 </br>
