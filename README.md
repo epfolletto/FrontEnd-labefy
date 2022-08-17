@@ -14,7 +14,7 @@ Os métodos utilizados para realizar este projeto foram: </br>
 **- deletePlaylist:** deletar uma determinada playlist. </br>
 **- removeTrackFromPlaylist:** deletar música de uma playlist. </br>
 </br>
-A documentação da API pode ser encontrada [aqui](https://documenter.getpostman.com/view/7549981/SztBc8eT?version=latest)
+A documentação da API pode ser encontrada [aqui](https://documenter.getpostman.com/view/7549981/SztBc8eT?version=latest).
 
 # `Modo de usar`
 Ao iniciar a aplicação o usuário é direcionado para a tela de Home, onde existem dois botões: </br>
