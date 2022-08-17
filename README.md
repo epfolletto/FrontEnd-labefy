@@ -1,4 +1,10 @@
-# Descrição
+# `Projeto`
+Projeto Labefy
+
+# `Link`
+[Clique aqui!](http://folletto-labefy.surge.sh/)
+
+# `Descrição`
 O Projeto Labefy foi desenvolvido como uma atividade dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em requisições para a API desenvolvida pela equipe da Labenu via axios.
 Os métodos utilizados para realizar este projeto foram:
 getAllPlaylists: ver todas as playlists cadastradas;
@@ -7,32 +13,8 @@ createPlaylist: criar uma nova playlist;
 addTrackToPlaylist: adicionar uma nova música em uma determinada playlist;
 deletePlaylist: deletar uma determinada playlist;
 removeTrackFromPlaylist: deletar música de uma playlist.
-Desenvolvido por: Evandro Paulo Folletto
-
-# Tecnologias utilizadas
-<div>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</div>
-
-
-# `Projeto`
-Projeto Labefy
-
-# `Link`
-[Clique aqui!](http://folletto-labefy.surge.sh/)
-
-# `Descrição`
-O Projeto LabeFoods foi desenvolvido como projeto final de Front End dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em requisições (via axios) para a API labeFoods, que contém informações relacionadas ao desenvolvimento de uma aplicação que simula um aplicativo semelhante ao conhecido app iFood. Este projeto foi baseado no layout layout FutureEats.
 </br>
-A documentação da API pode ser encontrada [aqui](https://documenter.getpostman.com/view/7549981/SWTEdGtT)
-</br>
-O repositório do projeto pode ser encontrado [aqui](https://github.com/future4code/Alves-labe-food5)
+A documentação da API pode ser encontrada [aqui](https://documenter.getpostman.com/view/7549981/SztBc8eT?version=latest)
 
 # `Modo de usar`
 Ao iniciar a aplicação o usuário é direcionado para a tela de Login. Nesta tela, o usuário pode efetuar seu login ou então se inscrever na plataforma, criando um usuário com nome, email, senha e dados de endereço.
@@ -65,7 +47,6 @@ Rodar o projeto:
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 </div>
 
 # `Autor`
