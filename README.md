@@ -23,10 +23,10 @@ Ao iniciar a aplicação o usuário é direcionado para a tela de Home, onde exi
   - ao clicar em **Excluir**, o usuário deleta aquela playlist da lista. </br>
   - ao clicar em **Ver**, o usuário é redirecionado para a página de detalhes da playlist clicada, onde é possível: </br>
     - clicar em **Excluir** para excluir determinada música da playlist. </br>
-    - clicar no **play/pause** para reproduzir e pausar, respectivamente. Também é possível aumentar e diminuir o volume. </br>
-    - clicar em **voltar**, para voltar para a página da lista de playlists. </br>
+    - clicar no **Play/Pause** para reproduzir e pausar, respectivamente. Também é possível aumentar e diminuir o volume. </br>
+    - clicar em **Voltar**, para voltar para a página da lista de playlists. </br>
     - clicar em **Adicionar Música**, para ser redirecionado para a tela de cadastro de músicas. Para adicionar uma nova música o usuário deve preencher os campos: Nome da música, Artista, URL da música. Para efetuar o cadastro basta clicar em **Adicionar** e para voltar para a página anterior basta clicar em **Voltar**. </br>
-  - ao clicar em **Criar Playlist** o usuário é redirecionado para a página de criação de playlist, onde deve inserior o nome desta playlist. Pàra efetuar a criação da playlist o usuário deve clicar em **Criar Playlist**, e para voltar para a página de playlist deve clicar em **Voltar**. </br>
+  - ao clicar em **Criar Playlist** o usuário é redirecionado para a página de criação de playlist, onde deve inserir o nome da playlist. Para efetuar a criação da playlist o usuário deve clicar em **Criar Playlist**, e para voltar para a página de playlists deve clicar em **Voltar**. </br>
   - ao clicar em **Voltar** o usuário é redirecionado para a página Home.
 
 # `Instalando e rodando o projeto`
